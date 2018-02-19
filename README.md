@@ -19,5 +19,5 @@ The expert users could download these models to carry out further research. The 
 and you could get the results.
 
 ## About the algorithms and explanation.
-The modeling process including descriptors, methods, feature selection, model performance has been detailedly described in the “Documentation” section of the website.
+The modeling process including descriptors, methods, feature selection and model performance has been detailedly described in the “Documentation” section of the website.
 
