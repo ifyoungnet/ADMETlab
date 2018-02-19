@@ -12,12 +12,12 @@ The platform is avaliable at: http://admet.scbdd.com
 ## About this repository.
 This repository provides models of ADMETlab in binary files for expert users. The ordinary users are suggested to use the ADMETlab server to accomplish all related prediction or analysis tasks because of the convenience and no programming requirements.
 
-The expert users could download these models to carry out further research. To use the model, download all the zipped files and unzip, then calculate the descriptors according to the "Documentation" section, then load the model to predict. The example folder contains an example. In the Python command line, input:
+The expert users could download these models to carry out further research. To use the model, download all the zipped files and unzip, then calculate the descriptors according to the "[Documentation](http://admet.scbdd.com/home/interpretation/)" section, then load the model to predict. The example folder contains an example. In the Python command line, input:
 <br>
 > python run.py
 <br>
 and you could get the results.
 
 ## About the algorithms and explanation.
-The modeling process including descriptors, methods, feature selection and model performance has been detailedly described in the "Documentation" section of the website.
+The modeling process including descriptors, methods, feature selection and model performance has been detailedly described in the "[Documentation](http://admet.scbdd.com/home/interpretation/)" section of the website.
 
