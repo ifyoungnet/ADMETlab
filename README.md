@@ -1,6 +1,6 @@
 # ADMETlab
 A platform for systematic ADME evaluation of drug molecules, thereby accelerating the drug discovery process.<br>
-The platform is avaliable at: http://admetlab.scbdd.com 
+The platform is avaliable at: http://admet.scbdd.com 
 
 ## Features
 1. Well optimized SAR models with better performance than state-of-the-art models.
