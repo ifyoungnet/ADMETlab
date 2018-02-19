@@ -9,36 +9,15 @@ The platform is avaliable at: http://admetlab.scbdd.com
 4. Systematically evaluate molecular druggability.
 5. Provide constructive suggestions for molecular optimization.
 
-## The pharmacokinetic properties.
-* Absorbtion
+## About this repository.
+This repository provides models of ADMETlab in binary files for expert users. The ordinary users are suggested to use the ADMETlab server to accomplish all related prediction or analysis tasks because of the convenience and no programming requirements.
 
-> Papp (Caco-2 Permeability)<br/>
-> LogS (Solubility)<br/>
-> LogD (Distribution Coefficient D)<br/>
-> Pgp-inhibitor<br/>
-> Pgp-substrate<br/>
-> HIA (Human Intestinal Absorption)<br/>
-> F (20% Bioavailability)<br/>
-> F (30% Bioavailability)<br/>
+The expert users could download these models to carry out further research. The example folder contains an example. In the Python command line, input:
+<br>
+> python run.py
+<br>
+and you could get the results.
 
-* Distribution
-
-> PPB (Plasma Protein Binding)<br/>
-> BBB (Blood–Brain Barrier)<br/>
-> VD (Volume Distribution)<br/>
-
-* Metabolism
-
-> P450 CYP1A2 inhibitor<br/>
-> P450 CYP3A4 inhibitor<br/>
-> P450 CYP2C9 inhibitor<br/>
-> P450 CYP2C19 inhibitor<br/>
-> P450 CYP2C9 substrate<br/>
-> P450 CYP2D6 substrate<br/>
-
-* Elimination
-
-> T 1/2 (Half Life Time)<br/>
-> CL (Clearance Rate)<br/>
-
+## About the algorithms and explanation.
+The modeling process including descriptors, methods, feature selection, model performance has been detailedly described in the “Documentation” section of the website.
 
