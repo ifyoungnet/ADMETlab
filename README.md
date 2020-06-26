@@ -1,7 +1,7 @@
 # ADMETlab
 A platform for systematic ADME evaluation of drug molecules, thereby accelerating the drug discovery process.<br>
 The platform is avaliable at: http://admet.scbdd.com 
-(Note: the pgp-substrate model is not correct, we will update it later)
+(Note: the pgp-substrate model is not correct in github, the correct model has been updated in webserver)
 ## Features
 1. Well optimized SAR models with better performance than state-of-the-art models.
 2. User-friendly interface and easy to use.
