@@ -22,6 +22,6 @@ and you could get the results.
 The modeling process including descriptors, methods, feature selection and model performance has been detailedly described in the "[Documentation](http://admet.scbdd.com/home/interpretation/)" section of the website.
 
 ## Contact.
-If you have questions or suggestions, please contact: biomed@csu.edu.cn and oriental-cds@163.com
+If you have questions or suggestions, please contact: jie@csu.edu.cn and oriental-cds@163.com
 
 Please see the file LICENSE for details about the "New BSD" license which covers this software and its associated data and documents.
